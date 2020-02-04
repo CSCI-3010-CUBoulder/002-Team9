@@ -1,4 +1,4 @@
 # 002-Team9
-I am chad w
+I am Chad Wireman
 Paul Yim
 Michelle Tran
