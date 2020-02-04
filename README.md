@@ -1,1 +1,4 @@
-# 002-Team9I am chad w
+# 002-Team9
+I am chad w
+Paul Yim
+Michelle Tran
